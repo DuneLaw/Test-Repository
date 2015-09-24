@@ -11,6 +11,7 @@ namespace TestAppForGit
         static void Main(string[] args)
         {
             Console.WriteLine("Testchange 1"); //This was the change
+            int a = 1;
         }
     }
 }
